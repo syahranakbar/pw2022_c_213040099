@@ -1,25 +1,25 @@
 <?php 
 $mahasiswa = [
     [
-      "nama" => "Nizar Al Fattan", 
-      "npm" => "213040078", 
-      "email" => "nizar.213040078@mail.unpas.ac.id", 
+      "nama" => "Syahran Akbar ", 
+      "npm" => "213040099", 
+      "email" => "syahran.213040099@mail.unpas.ac.id", 
       "jurusan" => "Teknik Infirmatika",
-      "gambar" => "Nizar.jpg"
+      "gambar" => "Adidas.jpg"
     ],
     [
       "nama" => "Adam Maulana", 
       "npm" => "213040086", 
       "email" => "adam.213040086@mail.unpas.ac.id", 
       "jurusan" => "Teknik Informatika",
-      "gambar" => "Nizar1.jpg"
+      "gambar" => "Adidas.jpg"
     ],
     [
       "nama" => "Muhammad Fauzan", 
       "npm" => "213040104", 
       "email" => "fauzan.213040104@mail.unpas.ac.id", 
       "jurusan" => "Teknik Informatika",
-      "gambar" => "Nizar2.jpg"
+      "gambar" => "Adidas.jpg"
     ]
   ];
 ?>
